@@ -1,6 +1,6 @@
 # Used_Car_Reccomendations
 Vehicle Features – What Drives the Price of a car?
-
+ 
 Introduction: In attempt to build a model that accurately predicts and identifies the driving features that determine the eventual sale price of a used car, I parsed through thousands of rows of data to identify an effective model.
 After tuning and fitting several different models I found a model which was able to predict the price of a car with an average of $5472 off the eventual sale price of the vehicle. 
 
