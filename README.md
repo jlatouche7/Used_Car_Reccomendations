@@ -3,6 +3,8 @@ Vehicle Features – What Drives the Price of a car?
  
 Introduction: In attempt to identify which features of a vehicle drive the eventual sale price, I built a model to identify the features that determine a vehicles price and predict future prices of un-sold vehicles. I parsed through thousands of rows of data to build and identify an effective model. After tuning and fitting several different models I found a model which was able to predict the price of a car with an average of $5472 off the eventual sale price of the vehicle. Below I have broken down which features the model identified as most and least important to it's price.
 
+Linked Here is a Jupyter Notebook with my data cleaning, modeling and selection process: 
+
 Most Important Features:
 
 •	Condition: In the data-the condition of the vehicle falls into one of several categories: new, like new, excellent, good, fair and salvage. We found that for each change in condition (for ex. "new” to “like new”), on average, there is about a $1,360 difference. This means that if the condition of a vehicle is in ‘salvage’ condition compared to the exact same vehicle in ‘new’ condition, the model predicts that, on average, there is about an $8,000 difference between the two vehicles.
