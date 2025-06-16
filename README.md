@@ -3,7 +3,7 @@ Vehicle Features – What Drives the Price of a car?
  
 Introduction: In attempt to identify which features of a vehicle drive the eventual sale price, I built a model to identify the features that determine a vehicles price and predict future prices of un-sold vehicles. I parsed through thousands of rows of data to build and identify an effective model. After tuning and fitting several different models I found a model which was able to predict the price of a car with an average of $5472 off the eventual sale price of the vehicle. Below I have broken down which features the model identified as most and least important to it's price.
 
-Linked Here is a Jupyter Notebook with my data cleaning, modeling and selection process: 
+Linked Here is a Jupyter Notebook with my data cleaning, modeling and selection process: https://github.com/jlatouche7/Used_Car_Reccomendations/blob/100b03f3007892d71ad9a4ac9761d068022505bc/What%20Drives%20The%20Price%20of%20a%20Car%20-%20Modeling.ipynb
 
 Most Important Features:
 
